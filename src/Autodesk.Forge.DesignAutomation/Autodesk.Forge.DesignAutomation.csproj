@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <PackageReference Include="Autodesk.Forge.Core" Version="1.*" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
    
   <Import Project="..\..\nuget.targets" />
